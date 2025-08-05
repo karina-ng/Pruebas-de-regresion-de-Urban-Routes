@@ -38,6 +38,8 @@ Ejecutar pruebas de regresión para asegurar que las nuevas versiones de Urban R
 
 ## 🔗 Recursos
 - [Plantilla de casos de prueba](https://docs.google.com/spreadsheets/d/1WdJ2lAz2TwU_-w-IanDAlUJC5ydoAvc4/edit#gid=1168870724)
+- Pantalla principal ![Pantalla principal](screenshots/UrbanRoutes.png)
+
 
 ---
 
